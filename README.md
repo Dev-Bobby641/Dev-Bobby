@@ -1,4 +1,4 @@
-# Hello, I'm Robert Howell
+# Hello, I'm Robert
 <a href="https://linkedin.com/in/devbobby"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a student currently studying computer networking security with a profound interest in technology and the complex problems and solutions that come along with it.
